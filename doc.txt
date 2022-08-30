@@ -1,0 +1,5 @@
+WORLDE GAME :
+- technology: single-page/ Reactjs/ Redux/ typescript
+- UI framework: Reactjs-Bootstrap.   https://www.typescriptlang.org/docs/handbook/jsx.html#react-integration
+- styles: styled-components. https://www.youtube.com/watch?v=2c5qbYg7dQ8&ab_channel=evondev  /// https://styled-components.com/docs/basics
+- 
